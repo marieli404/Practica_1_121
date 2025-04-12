@@ -1,4 +1,3 @@
-package POO.Ejercicio1;
 public class Persona {
     private String nombre;
     private int edad;

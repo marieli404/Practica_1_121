@@ -1,4 +1,4 @@
-package Practica_1_121.POO.Ejercicio3;
+package POO.Ejercicio3;
 
 public class Coche {
     private String marca;
